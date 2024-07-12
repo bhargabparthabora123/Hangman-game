@@ -1,0 +1,18 @@
+apple:It's a type of fruit
+banana:It's yellow and elongated
+chocolate:It's a sweet treat
+elephant:It's a large mammal
+guitar:It's a musical instrument
+programming:It involves writing code
+hangman:It's the name of this game
+computer:It's an electronic device
+basketball: It's a sport played with a ball and hoop.
+sunflower: It's a tall flower with a large, round center.
+bicycle: It's a two-wheeled vehicle propelled by pedals.
+umbrella: It's used to provide shelter from rain or sun.
+oxygen: It's a gas essential for respiration.
+penguin: It's a flightless bird found in cold climates.
+volcano: It's a mountain that erupts molten lava and ash.
+telephone: It's a device used to communicate over long distances.
+library: It's a place where books and other materials are stored and accessed.
+soccer: It's a popular sport played with a spherical ball.
